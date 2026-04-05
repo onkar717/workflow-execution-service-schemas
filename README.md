@@ -7,13 +7,13 @@ Workflow Execution Service (WES) API
 ====================================
 
 
-This repository is the home for the schema for the GA4GH Workflow Execution Service API. The Goal of the API is to
+This repository is the home for the schema for the GA4GH Workflow Execution Service API. The goal of the API is to
 provide
 a standardized way to submit and manage workflows described in a workflow language (eg. WDL, CWL, Nextflow, Galaxy,
 Snakemake)
 against an execution backend.
 
-See the human-readable [Reference Documentation](https://ga4gh.github.io/workflow-execution-service-schemas/docs/)
+See the human-readable [Reference Documentation](https://ga4gh.github.io/workflow-execution-service-schemas/docs/).
 You can also explore the specification in
 the [Swagger Editor](https://editor.swagger.io/?url=https://ga4gh.github.io/workflow-execution-service-schemas/openapi.yaml).
 *Manually load the JSON if working from a non-develop branch version.* Preview documentation from
@@ -64,9 +64,9 @@ Use cases include:
 
 Starter Kit
 -----------
-If you are a future implementor or would like to start using a WES API locally you can try
+If you are a future implementer or would like to start using a WES API locally you can try
 the [GA4GH WES Starter Kit](https://starterkit.ga4gh.org/docs/starter-kit-apis/wes/wes_overview/). This project provides
-a fully functioning WES API written in java and allows you to run workflows using the Nextflow workflow language.
+a fully functioning WES API written in Java and allows you to run workflows using the Nextflow workflow language.
 
 
 Possible Future Enhancements
